@@ -1,0 +1,25 @@
+body{
+    background-color:aqua ;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+.hero{
+    display: flex; 
+}
+nav a:hover{
+    color: crimson;
+
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.container{
+    padding: 0px 50px;
+}
+
